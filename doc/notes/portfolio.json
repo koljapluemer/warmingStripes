@@ -1,0 +1,19 @@
+{
+  "title": "Climate Stripes Localized",
+  "subtitle": "Recreating a Climate Change Visualization",
+  "imageAltProperty": "Colored Stripes in Red and Blue Tones",
+  "showAboveFold": false,
+  "status": "done",
+  "showOnPortfolio": true,
+  "languages": "de",
+  "links": [
+    {
+      "title": "View Poster",
+      "url": "https://github.com/blackbrokkoli/warmingStripes/blob/main/Poster.pdf"
+    },
+    {
+      "title": "In the Local News",
+      "url": "https://www.donaukurier.de/archiv/klimaschutz-mal-ganz-plakativ-1206861"
+    }
+  ]
+}
